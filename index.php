@@ -349,3 +349,5 @@ switch (ENVIRONMENT)
 require_once BASEPATH.'core/CodeIgniter.php';
 
 just practising something.
+
+my name is nama naresh.
